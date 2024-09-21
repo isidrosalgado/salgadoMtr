@@ -1,4 +1,4 @@
----
+
 - dashboard: embed_filter
   title: Embed_filter
   layout: newspaper
