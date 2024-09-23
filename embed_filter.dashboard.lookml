@@ -64,3 +64,6 @@
     explore: order_items
     listens_to_filters: []
     field: orders.status
+
+  embed_style:
+    show_filters_bar: false
